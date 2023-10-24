@@ -1,0 +1,558 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>QTIS</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta name="author" content="" />
+
+  <!-- Facebook and Twitter integration -->
+	<meta property="og:title" content=""/>
+	<meta property="og:image" content=""/>
+	<meta property="og:url" content=""/>
+	<meta property="og:site_name" content=""/>
+	<meta property="og:description" content=""/>
+	<meta name="twitter:title" content="" />
+	<meta name="twitter:image" content="" />
+	<meta name="twitter:url" content="" />
+	<meta name="twitter:card" content="" />
+	
+<link rel="shortcut icon" href="images/logo-big (1).jpg" type="image/x-icon">
+	<link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+
+	<!-- Magnific Popup -->
+	<link rel="stylesheet" href="css/magnific-popup.css">
+
+	<!-- Flexslider  -->
+	<link rel="stylesheet" href="css/flexslider.css">
+
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link rel="stylesheet" href="css/owl.theme.default.min.css">
+	
+	<!-- Flaticons  -->
+	<link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+    <link href="https://use.fontawesome.com/releases/v5.0.8/css/all.css" rel="stylesheet">
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+	</head>
+	<body>
+
+
+	<div id="page">
+		<nav class="colorlib-nav" role="navigation">
+		<div class="upper-menu" >
+		    
+				<div class="container">
+					<div class="row">
+					   <ln> </ln>
+						<div class="col-xs-4">
+							<p style="">Адрес:Актюбинская область,  Актобе Г.А., Г.Актобе, район Астана, квартал Авиагородок, 56А</p>
+
+
+						</div>
+						
+						<div class="col-xs-6 col-md-push-2 text-right">
+							<select data-placeholder="Руский">
+							 <option value="Ru">Руский</option>
+							 <option value="KAz">Қазақ тілі</option>
+			                 <option value="Eng">English</option>
+							    
+							    
+							</select>
+						</div>
+					</div>
+				</div>
+			</div>
+		<div class="top-menu">
+				<div class="container">
+					<div class="row">
+						
+							<img src="js/logo1.png" style="height:150px; width:150px; float:left">
+						
+						<div class="col-md-10 text-right menu-2">
+							<ul>
+								<li class="active"><a href="index.html">Главная</a></li>
+								<li><a href="about.html">О нас</a></li>
+                                <li class="has-dropdown">
+									<a href="courses.html">Услуги</a>
+									<ul class="dropdown">
+										<li><a href="usluga.php?id=4">Цифровое картографирование</a></li>
+										<li><a href="usluga.php?id=3">Разработка информационно-аналитических интерактивных карт</a></li>
+										<li><a href="usluga.php?id=2">ИИНТС</a></li>
+											<li><a href="usluga.php?id=1">Разработка программного обеспечения</a></li>
+											<li><a href="usluga.php?id=5">Обработка космических снимков</a></li>
+									</ul>
+								</li>
+								<li><a href="event.html">Наши проекты</a></li>
+								<li><a href="contact.html">Контакты</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</nav>
+		<aside id="colorlib-hero">
+			<div class="flexslider">
+				<ul class="slides">
+			   	<li class="anim">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-8 col-sm-12 col-md-offset-2 col-xs-12 col-md-pull-1 slider-text">
+				   				<div class="slider-text-inner">
+				   					<div class="desc">
+				   						<h2>Абсолютно новая Казахстанская IT-компания.</h2>
+					   					<h1>Разработка программного обеспечения</h1>
+				   					</div>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   <li class="anim2" >
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-8 col-sm-12 col-md-offset-2 col-xs-12 col-md-pull-1 slider-text">
+				   				<div class="slider-text-inner">
+				   					<div class="desc">
+				   						<h2>Востребованный продукт на рынке Казахстана с дальнейшей перспективой роста.</h2>
+					   					<h1>Разработка ИИНТС</h1>
+					   				</div>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   <li class="anim3">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-8 col-sm-12 col-md-offset-2 col-xs-12 col-md-pull-1 slider-text">
+				   				<div class="slider-text-inner">
+				   					<div class="desc">
+				   						<h2>Профессионализм в реализации каждого проекта</h2>
+					   					<h1>Комплексный подход</h1>
+					   				</div>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>
+			   <li class="anim4">
+			   		<div class="overlay"></div>
+			   		<div class="container-fluid">
+			   			<div class="row">
+				   			<div class="col-md-8 col-sm-12 col-md-offset-2 col-xs-12 col-md-pull-1 slider-text">
+				   				<div class="slider-text-inner">
+				   					<div class="desc">
+				   						<h2>Учитываем все аспекты безопасности и уделяем особе внимание качеству нашей работы</h2>
+					   					<h1>Контроль качества и безопасность</h1>
+					   				</div>
+				   				</div>
+				   			</div>
+				   		</div>
+			   		</div>
+			   	</li>	
+			  	</ul>
+		  	</div>
+		</aside>
+
+		<div class="colorlib-search">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 search-wrap">
+					
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="colorlib-services">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 services-wrap">
+						<div class="row">
+						  
+						    <center>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-tachometer-alt" style="color:white"></i>
+									</span>
+									<div class="desc">
+									    
+										<h3 >Быстрый <br>Запуск</h3>
+									
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-dollar-sign" style="color:white"></i>
+									</span>
+									<div class="desc">
+										<h3>Низкая <br>Стоимость</h3>
+										
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-comments" style="color:white"></i>
+									</span>
+									<div class="desc">
+										<h3>Полная <br>Адаптивность</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-address-card" style="color:white"></i>
+									</span>
+									<div class="desc">
+										<h3>Индивидуальный <br>Подход</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-database" style="color:white"></i>
+									</span>
+									<div class="desc">
+										<h3>Современные <br>Технологии</h3>
+									</div>
+								</a>
+							</div>
+							<div class="col-md-2 col-sm-6 text-center animate-box">
+								<a href="#" class="services">
+									<span class="icon">
+										<i class="fas fa-paint-brush" style="color:white"></i>
+									</span>
+									<div class="desc">
+										<h3>Интерактивный <br>Дизайн</h3>
+									</div>
+								</a>
+							</div>
+							</center>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div id="colorlib-counter" class="colorlib-counters">
+			<div class="container">
+				<div class="col-md-7">
+					<div class="about-desc">
+						<div class="about-img-1 animate-box" style="background-image: url(images/about-img-2.jpg);"></div>
+						<div class="about-img-2 animate-box" style="background-image: url(images/about-img-1.jpg);"></div>
+					</div>
+				</div>
+				<div class="col-md-5">
+					<div class="row">
+						<div class="col-md-12 colorlib-heading animate-box">
+							<h1 class="heading-big">Кто мы?</h1>
+							<h2>Кто мы?</h2>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-md-12 animate-box">
+							<p><strong>Qazaqtech Intelligent systems это</strong></p>
+							<p>Новая Казахстанская IT компания, имеющая четкие цели, а также собственную корпоративную культуру и ценности, которые способствуют реализации поставленных задач и достижению новых высот в сфере современных технологий.</p>
+							<p>Ваш надежный партнер, который имеет собственную команду высококвалифицированных специалистов, принцип комплексного подхода в реализации проектов, а также фактор ответственности в качестве краеугольной ценности компании.<br><br>
+							QAZAQTECH - компания решающая ваши любые запросы, связанные с инновационными технологиями.</p>
+						</div>
+						<div class="col-md-6 col-sm-6 animate-box">
+							<div class="counter-entry">
+								<div class="desc">
+									<span class="colorlib-counter js-counter" data-from="0" data-to="2019" data-speed="5000" data-refresh-interval="50"></span>
+									<span class="colorlib-counter-label">Год основания</span>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="colorlib-trainers">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 colorlib-heading center-heading text-center animate-box ">
+						<h1 class="heading-big">Наша команда</h1>
+						<h2>Наша команда</h2>
+					</div>
+				</div>
+				<div class="row ">
+					<div class="col-md-3 col-sm-3  animate-box">
+						<div class="trainers-entry">
+							<div class="desc">
+								<h3>Асанов Султан Курванжанович</h3>
+								<span>генеральный директор компании Qazaqtech</span>
+							</div>
+							<div class="trainer-img" style="background-image: url(images/sulta.jpg)"></div>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-sm-3 animate-box">
+						<div class="trainers-entry">
+							<div class="desc">
+								<h3>Мақанғали Бауыржан Қонысбайұлы</h3>
+								<span>заместитель генерального директора Qazaqtech</span>
+							</div>
+							<div class="trainer-img" style="background-image: url(images/baur.jpg)"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="colorlib-classes">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12 colorlib-heading center-heading text-center animate-box">
+						<h1 class="heading-big">Наши услуги</h1>
+						<h2>Наши услуги</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-4 animate-box">
+						<div class="classes">
+							<div class="classes-img" style="background-image: url(images/classes-1.jpg);">
+							</div>
+							<div class="wrap">
+								<div class="desc">
+								
+								<h3><a href="usluga.php?id=1">Разработка Программного обеспечения</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="classes">
+							<div class="classes-img" style="background-image: url(images/classes-2.jpg);">
+							</div>
+							<div class="wrap">
+								<div class="desc">
+									
+										<h3><a href="usluga.php?id=2">ИИНТС</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4 animate-box">
+						<div class="classes">
+							<div class="classes-img" style="background-image: url(images/classes-3.jpg);">
+							</div>
+							<div class="wrap">
+								<div class="desc">
+									
+									<h3><a href="usluga.php?id=3">Разработка информационно-аналитических интерактивных карт</a></h3>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+		
+		<div id="colorlib-subscribe" class="subs-img" style="background-image: url(images/img_bg_2.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center colorlib-heading animate-box">
+						<h2>Свяжитесь с нами</h2>
+						<p>Оставьте заявку и мы вам перезвоним</p>
+					</div>
+				</div>
+				<div class="row animate-box">
+					<div class="col-md-6 col-md-offset-4">
+						<div class="row">
+							<div class="col-md-12">
+							<form class="form-inline qbstp-header-subscribe">
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Сообщение">
+									</div>
+								</div>
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Имя">
+									</div>
+								</div>
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Email">
+									</div>
+								</div>
+								<div class="col-three-forth">
+									<div class="form-group">
+										<input type="text" class="form-control" id="email" placeholder="Номер телефона ">
+									</div>
+								</div>
+								<div class="col-one-fifth">
+									<div class="form-group">
+									    <br><br>
+										<button type="submit" class="btn btn-primary">Оставить заявку</button>
+									</div>
+								</div>
+							</form>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<footer id="colorlib-footer">
+			<div class="container ">
+				<div class="row row-pb-md ">
+					<div class="col-md-12 text-center">
+					
+						<h4>Контактная информация</h4>
+						<ul class="colorlib-footer-links">
+							<li> Г.Актобе, район
+Астана, квартал Авиагородок, 56А</li>
+							<li><a href=""><i class="icon-phone"></i> +7 777 777 7777</a></li>
+							<li><a href=""><i class="icon-envelope"></i> qtis@gmail.com</a></li>
+							
+						</ul>
+					</div>
+
+					
+				</div>
+			</div>
+			<div class="copy">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<p>
+								<small class="block">&copy; <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved  
+</small><br> 
+								
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+	</div>
+
+	<div class="gototop js-top">
+		<a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+	</div>
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- Stellar Parallax -->
+	<script src="js/jquery.stellar.min.js"></script>
+	<!-- Flexslider -->
+	<script src="js/jquery.flexslider-min.js"></script>
+	<!-- Owl carousel -->
+	<script src="js/owl.carousel.min.js"></script>
+	<!-- Magnific Popup -->
+	<script src="js/jquery.magnific-popup.min.js"></script>
+	<script src="js/magnific-popup-options.js"></script>
+	<!-- Counters -->
+	<script src="js/jquery.countTo.js"></script>
+	<!-- Main -->
+	<script src="js/main.js"></script>
+	<script src="js/three.min.js"></script>
+<script src="js/vanta.net.min.js"></script>
+
+<script>
+VANTA.NET({
+  el: ".anim",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 1000.00,
+  minWidth: 2700.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0xffffff,
+  backgroundColor: 0x0,
+  points: 12.00
+})
+</script>
+<script>
+VANTA.NET({
+  el: ".anim2",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+   minHeight: 1000.00,
+  minWidth: 2700.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0xffffff,
+  backgroundColor: 0x0,
+  points: 12.00
+})
+</script>
+<script>
+VANTA.NET({
+  el: ".anim3",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 1000.00,
+  minWidth: 2700.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0xffffff,
+  backgroundColor: 0x0,
+  points: 12.00
+})
+</script>
+<script>
+VANTA.NET({
+  el: ".anim4",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 1000.00,
+  minWidth: 2700.00,
+  scale: 1.00,
+  scaleMobile: 1.00,
+  color: 0xffffff,
+  backgroundColor: 0x0,
+  points: 12.00
+})
+</script>
+	
+
+	</body>
+</html>
+
